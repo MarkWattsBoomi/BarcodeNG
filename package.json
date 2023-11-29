@@ -11,7 +11,7 @@
   "author": "Boomi",
   "license": "MIT",
   "dependencies": {
-    "@zxing/library": "^0.15.2",
+    "@zxing/library": "^0.20.0",
     "fcmlib": "^1.0.9",
     "react": "18.2.0"
   },
